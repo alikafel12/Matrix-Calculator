@@ -1,6 +1,6 @@
 # Matrix Calculator
 
-A calculator that adds and multiplies matrices using threads in C. A class project.
+A calculator that adds and multiplies matrices using threads in C. A class project for my systems programming class. Includes test files.
 
 # Built With
 
